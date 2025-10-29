@@ -26,6 +26,8 @@ results/
 *.xlsx
 *.json
 
+!Ecoacoustics_Longitudinal_Altitude_Project/gps_coord.csv
+
 # === Notebooks & caches ===
 .ipynb_checkpoints
 *.nbconvert.ipynb
