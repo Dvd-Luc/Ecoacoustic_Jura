@@ -1,0 +1,50 @@
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pdb
+*.egg-info/
+*.egg
+*.log
+
+# === Environnements virtuels ===
+.env
+.venv
+env/
+venv/
+ENV/
+
+# === Données & sorties ===
+data/
+datasets/
+outputs/
+results/
+*.csv
+*.tsv
+*.xlsx
+*.json
+
+# === Notebooks & caches ===
+.ipynb_checkpoints
+*.nbconvert.ipynb
+*.R
+
+# === Outils ===
+.idea/
+.vscode/
+.DS_Store
+
+# === BirdNET / Audio ===
+extractions/
+*.wav
+*.mp3
+*.flac
+
+# === Images ===
+
+*.png
+*.jpg
+# === OS ===
+Thumbs.db
