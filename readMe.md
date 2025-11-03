@@ -1,6 +1,6 @@
 ## Architecture
 
-ROOT_DIR : 
+ROOT_DIR (i.e. : "./Data"): 
 - Point_1
 - Point_2
 - Point_3
@@ -12,6 +12,3 @@ ROOT_DIR :
 
 Try to match the names of the folders as presented here "Point_N" otherwise you will face issues
 I advise you also use the gps_coord.csv file provided here, it is shaped to work with the code of this project
-
-
-
